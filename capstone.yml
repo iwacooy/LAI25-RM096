@@ -1,0 +1,11 @@
+name: capstone
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.10
+  - pandas
+  - joblib
+  - streamlit
+  - scikit-learn
