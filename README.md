@@ -39,8 +39,8 @@ streamlit run app.py
 ## 📁 Struktur Folder
 ```
 LAI25-RM096/
-├── data/               # Dataset klaim asuransi
-├── capstone.ipynb      # Notebook eksplorasi dan training model
+├── data.csv            # Dataset klaim asuransi
+├── Capstone.ipynb      # Notebook eksplorasi dan training model
 ├── .joblib             # Model machine learning yang telah disimpan
 ├── app.py              # Aplikasi utama berbasis Streamlit
 ├── capstone.yml        # File environment untuk Anaconda
