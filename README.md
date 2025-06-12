@@ -93,3 +93,12 @@ Dengan proyek ini, kami berharap:
 
 - Proyek ini dikembangkan untuk keperluan edukatif (Capstone Project).  
 - Dataset dan model dapat disesuaikan lebih lanjut untuk kebutuhan produksi riil.
+
+---
+
+## 🚀 Coba Aplikasinya
+
+Untuk mencoba aplikasi deteksi penipuan klaim asuransi secara langsung, kunjungi:
+
+🔗 [capstone-clainsure.streamlit.app](https://capstone-clainsure.streamlit.app/)
+
